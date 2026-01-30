@@ -2,7 +2,7 @@ module.exports.config = {
   name: "admin",
   version: "1.0.0",
   permission: 0,
-  credits: "nayan",
+  credits: "Farhan",
   prefix: true,
   description: "search results on google",
   category: "without prefix",
@@ -48,11 +48,11 @@ ________________________________________
 
 ⊱༅༎😽💚༅༎⊱ ]
 
-🏠𝐀𝐃𝐃𝐑𝐄𝐒𝐒🏠 : যশোর, বাংলাদেশ
+🏠𝐀𝐃𝐃𝐑𝐄𝐒𝐒🏠 : চুয়াডাঙ্গা, বাংলাদেশ
 
 _____________🅲🅾🅽🆃🅰🅲🆃_____________
 
-💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❶)💥 : https://www.facebook.com/profile.php?id=61550529403710
+💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❶)💥 : https://www.facebook.com/share/1C1d3Aez9o/
 
 💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❷)💥 : https://www.facebook.com/DEVIL.FARHAN.420
 
