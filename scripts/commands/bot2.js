@@ -284,7 +284,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "🥰") || (event.body.toLowerCase() == "😍") || (event.body.toLowerCase() == "😻") || (event.body.toLowerCase() == "❤️")) {
-     return api.sendMessage("-এত ভালোবাসা কই পাও আমার বস ফারহান কে একটু দাও-!!😒😌                                                                                                              👉{https://www.facebook.com/devil.rj.farhan}♻️✔️", threadID);
+     return api.sendMessage("-এত ভালোবাসা কই পাও আমার বস ফারহান কে একটু দাও-!!😒😌                                                                                                              👉{https://www.facebook.com/DEVIL.FARHAN.420}♻️✔️", threadID);
    };
 
    if ((event.body.toLowerCase() == "কেমন আছো") || (event.body.toLowerCase() == "কেমন আছেন") || (event.body.toLowerCase() == "Kmon acho") || (event.body.toLowerCase() == "how are you") || (event.body.toLowerCase() == "how are you?")) {
@@ -396,7 +396,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("-আলহামদুলিল্লাহ-🌺-অনেক অনেক ভালো আছে তোমার বাসার সবাই কেমন আছে-💝🌻", threadID);
    };
   
-  if (event.body.indexOf("বট") == 0 || (event.body.indexOf("Ayra") == 0)) {
+  if (event.body.indexOf("বট") == 0 || (event.body.indexOf("bot") == 0 || (event.body.indexOf("Bot") == 0)) {
     var msg = {
       body: `《𓆩٭${name}٭𓆪》 ${rand}`
     }
